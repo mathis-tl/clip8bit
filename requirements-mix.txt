@@ -1,0 +1,13 @@
+# Environnement du système mix (transitions, stems, vidéo piste par piste)
+# uv venv .venv --python 3.12 && uv pip install -r requirements-mix.txt
+# Binaires : ffmpeg, rubberband (brew), yt-dlp
+torch==2.15.0
+demucs==4.1.0
+librosa==1.0.0
+soundfile==0.14.0
+pyrubberband==0.4.0
+numpy==2.5.4
+scipy==1.18.1
+pillow==13.0.0
+opencv-python-headless==5.0.0.93
+scikit-image==0.26.0

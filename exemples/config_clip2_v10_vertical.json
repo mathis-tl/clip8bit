@@ -1,0 +1,65 @@
+{
+ "first_scene": 2,
+ "th_move": 7,
+ "max_jump": 5,
+ "nocontour_scenes": [
+  11
+ ],
+ "nocontour_windows": [
+  [
+   8,
+   346
+  ],
+  [
+   20,
+   834
+  ],
+  [
+   24,
+   983
+  ],
+  [
+   34,
+   1374
+  ]
+ ],
+ "n3_every": 0,
+ "win": 12,
+ "cible": "viseur",
+ "mono": "vert",
+ "sous_titres": "jaune",
+ "transition": "entree",
+ "rythme": "both",
+ "habillage": "muet",
+ "cards": [
+  {
+   "line": 4
+  },
+  {
+   "line": 10,
+   "from": 3,
+   "to": 8,
+   "min_s": 1.2
+  },
+  {
+   "line": 11,
+   "from": 3,
+   "to": 8,
+   "min_s": 1.2
+  }
+ ],
+ "combo": "un_sur_deux",
+ "viseur_texte": "TARGET LOCKED",
+ "zone_sure": "tiktok",
+ "gbc_mode": "vif",
+ "cycle": "brut_vif10",
+ "pulse_every": 45,
+ "gamma": 1.3,
+ "effets_hors": [
+  "gb",
+  "bw"
+ ],
+ "max_raw_frames": 60,
+ "format": "vertical",
+ "cadre_largeur": 480
+}

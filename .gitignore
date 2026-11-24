@@ -1,0 +1,12 @@
+# médias, paroles et données de travail : non versionnés (droits, taille)
+*.mp4
+*.mov
+*.wav
+sorties/
+work/
+data/
+.venv/
+__pycache__/
+.DS_Store
+.claude/
+.mcp.json

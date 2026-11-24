@@ -1,0 +1,470 @@
+[
+ {
+  "words": [
+   "Bonjour"
+  ],
+  "t": [
+   0.5000000000000022
+  ],
+  "start": 0.5000000000000022,
+  "end": 1.18,
+  "exact": 1.0,
+  "total": 1,
+  "tampons": [
+   {
+    "type": "couronne",
+    "mot": 0
+   }
+  ]
+ },
+ {
+  "words": [
+   "Tu",
+   "m'as",
+   "connu",
+   "j'avais",
+   "pas",
+   "les",
+   "bras,",
+   "quand",
+   "j'faisais",
+   "du",
+   "son",
+   "avec",
+   "Liim's",
+   "et",
+   "Ibrak"
+  ],
+  "t": [
+   1.2,
+   1.64,
+   1.7,
+   2.1,
+   2.22,
+   2.44,
+   2.56,
+   2.78,
+   3.16,
+   3.36,
+   3.48,
+   3.7,
+   4.140000000000001,
+   4.32,
+   4.529999999999999
+  ],
+  "start": 1.2,
+  "end": 4.66,
+  "exact": 0.6,
+  "total": 15,
+  "souligne": 2,
+  "kristi": [
+   8,
+   9,
+   10
+  ]
+ },
+ {
+  "words": [
+   "Aujourd'hui",
+   "j'multiplie",
+   "les",
+   "sommes",
+   "et",
+   "les",
+   "sacs,",
+   "les",
+   "soirées,",
+   "les",
+   "sapes,",
+   "je",
+   "trinque",
+   "et",
+   "je",
+   "place"
+  ],
+  "t": [
+   4.68,
+   5.3,
+   5.74,
+   5.82,
+   6.02,
+   6.16,
+   6.26,
+   6.58,
+   6.7,
+   7.06,
+   7.35,
+   7.52,
+   7.76,
+   7.86,
+   7.96,
+   8.06
+  ],
+  "start": 4.68,
+  "end": 8.360000000000001,
+  "exact": 0.69,
+  "total": 16,
+  "tampons": [
+   {
+    "type": "exclam",
+    "mot": 6
+   }
+  ]
+ },
+ {
+  "words": [
+   "Dernier",
+   "d'la",
+   "classe,",
+   "j'suis",
+   "parti",
+   "en",
+   "chasse,",
+   "les",
+   "couilles",
+   "et",
+   "l'audace"
+  ],
+  "t": [
+   8.38,
+   9.0,
+   9.0,
+   9.52,
+   9.58,
+   9.76,
+   9.92,
+   10.2,
+   10.2,
+   10.8,
+   10.86
+  ],
+  "start": 8.38,
+  "end": 11.18,
+  "exact": 0.45,
+  "total": 11,
+  "eclair": true,
+  "souligne": 6
+ },
+ {
+  "words": [
+   "Oh,",
+   "ah,",
+   "trop",
+   "tard,",
+   "j'rentre",
+   "pas,",
+   "si",
+   "j'mise",
+   "sur",
+   "toi",
+   "faut",
+   "qu'j'renta'"
+  ],
+  "t": [
+   11.2,
+   11.66,
+   12.1,
+   12.44,
+   13.28,
+   13.78,
+   13.86,
+   14.14,
+   14.32,
+   14.84,
+   15.14,
+   15.44
+  ],
+  "start": 11.2,
+  "end": 15.72,
+  "exact": 0.58,
+  "total": 12,
+  "tampons": [
+   {
+    "type": "exclam",
+    "mot": 3
+   }
+  ]
+ },
+ {
+  "words": [
+   "Baby",
+   "fais-moi",
+   "plaisir,",
+   "descends,",
+   "descends,",
+   "fais-moi",
+   "plaisir"
+  ],
+  "t": [
+   15.74,
+   16.439999999999998,
+   16.74,
+   17.38,
+   17.82,
+   18.36,
+   18.62
+  ],
+  "start": 15.74,
+  "end": 19.24,
+  "exact": 0.43,
+  "total": 7,
+  "tampons": [
+   {
+    "type": "couronne",
+    "mot": 0
+   }
+  ],
+  "kristi": [
+   3,
+   4
+  ]
+ },
+ {
+  "words": [
+   "J'ai",
+   "d'quoi",
+   "t'offrir",
+   "c'que",
+   "tu",
+   "désires,",
+   "dis-moi",
+   "comment",
+   "j'ai",
+   "le",
+   "contrat"
+  ],
+  "t": [
+   19.259999999999998,
+   19.44,
+   19.88,
+   20.22,
+   20.32,
+   20.4,
+   21.22,
+   21.44,
+   21.93,
+   22.1,
+   22.673333333333332
+  ],
+  "start": 19.259999999999998,
+  "end": 22.986666666666668,
+  "exact": 0.36,
+  "total": 11,
+  "souligne": 5,
+  "tampons": []
+ },
+ {
+  "words": [
+   "Méchant",
+   "je",
+   "sais,",
+   "descente",
+   "je",
+   "fais,",
+   "absent",
+   "je",
+   "sais,",
+   "change",
+   "j'essaie"
+  ],
+  "t": [
+   23.006666666666668,
+   23.34,
+   23.5,
+   23.74,
+   24.48,
+   24.54,
+   24.76,
+   25.12,
+   25.38,
+   25.58,
+   26.21
+  ],
+  "start": 23.006666666666668,
+  "end": 26.44,
+  "exact": 0.36,
+  "total": 11,
+  "eclair": true,
+  "tampons": [
+   {
+    "type": "eclair",
+    "mot": 4
+   }
+  ]
+ },
+ {
+  "words": [
+   "Prends",
+   "c'que",
+   "t'as",
+   "pas,",
+   "comme",
+   "Kuluna,",
+   "TVLM,",
+   "j'vis",
+   "la",
+   "Noche"
+  ],
+  "t": [
+   26.46,
+   26.88,
+   27.18,
+   27.28,
+   27.76,
+   28.08,
+   28.4,
+   29.5,
+   29.66,
+   29.97
+  ],
+  "start": 26.46,
+  "end": 30.240000000000002,
+  "exact": 0.4,
+  "total": 10,
+  "souligne": 5,
+  "tampons": [
+   {
+    "type": "couronne",
+    "mot": 6
+   }
+  ]
+ },
+ {
+  "words": [
+   "Beaucoup",
+   "d'insolence",
+   "dans",
+   "l'attitude,",
+   "en",
+   "full",
+   "Bottega",
+   "sur",
+   "le",
+   "bitume"
+  ],
+  "t": [
+   30.26,
+   31.02,
+   31.44,
+   31.6,
+   32.02,
+   32.56,
+   32.76,
+   33.12,
+   33.34,
+   33.620000000000005
+  ],
+  "start": 30.26,
+  "end": 33.699999999999996,
+  "exact": 0.6,
+  "total": 10,
+  "souligne": 6,
+  "tampons": [
+   {
+    "type": "couronne",
+    "mot": 6
+   }
+  ],
+  "kristi": [
+   9
+  ]
+ },
+ {
+  "words": [
+   "J'suis",
+   "en",
+   "comportement",
+   "comme",
+   "le",
+   "mec",
+   "qui",
+   "tient",
+   "l'bitume,",
+   "comportement",
+   "comme",
+   "le",
+   "mec",
+   "qui",
+   "tient",
+   "l'bitume"
+  ],
+  "t": [
+   33.72,
+   33.82,
+   33.92,
+   34.56,
+   34.76,
+   34.94,
+   35.16,
+   35.4,
+   35.56,
+   35.72,
+   36.42,
+   36.62,
+   36.76,
+   36.98,
+   37.29,
+   37.5
+  ],
+  "start": 33.72,
+  "end": 37.69,
+  "exact": 0.44,
+  "total": 16,
+  "eclair": true,
+  "tampons": [
+   {
+    "type": "fleche",
+    "mot": 8
+   }
+  ]
+ },
+ {
+  "words": [
+   "Paie",
+   "tes",
+   "dettes",
+   "ou",
+   "tu",
+   "vas",
+   "saigner",
+   "le",
+   "bitume,",
+   "t'as",
+   "pas",
+   "les",
+   "capacités,",
+   "ni",
+   "les",
+   "aptitudes"
+  ],
+  "t": [
+   37.71,
+   37.92,
+   38.129999999999995,
+   38.22,
+   38.32,
+   38.44,
+   38.56,
+   38.96,
+   39.0,
+   39.5,
+   39.58,
+   39.72,
+   39.82,
+   40.44,
+   40.62,
+   40.78
+  ],
+  "start": 37.71,
+  "end": 41.64,
+  "exact": 0.75,
+  "total": 16,
+  "souligne": 12,
+  "tampons": [
+   {
+    "type": "exclam2",
+    "mot": 15
+   }
+  ]
+ }
+]

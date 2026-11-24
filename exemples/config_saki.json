@@ -1,0 +1,54 @@
+{
+ "first_scene": 3,
+ "th_move": 7,
+ "max_jump": 5,
+ "win": 12,
+ "nocontour_scenes": [],
+ "nocontour_windows": [],
+ "n3_every": 0,
+ "pulse_len": 14,
+ "pulse_every": 45,
+ "cards": [
+  {
+   "line": 7,
+   "from": 0,
+   "to": 7,
+   "min_s": 1.2
+  }
+ ],
+ "cible": "viseur",
+ "mono": "violet",
+ "sous_titres": "jaune",
+ "transition": "mosaique",
+ "rythme": "both",
+ "habillage": "muet",
+ "cycle": [
+  "bw",
+  "raw",
+  "gb",
+  "raw",
+  "bw",
+  "gb",
+  "raw",
+  "bw",
+  "gb",
+  "raw"
+ ],
+ "gbc_mode": "off",
+ "effets_hors": [
+  "gb",
+  "bw"
+ ],
+ "combo": "un_sur_deux",
+ "viseur_texte": "TARGET LOCKED",
+ "zone_sure": "tiktok",
+ "format": "vertical",
+ "cadre_largeur": 480,
+ "max_raw_frames": 150,
+ "repli": "bw",
+ "carte_couleur": "violet",
+ "intro": "titre",
+ "intro_titre": "SAKI KOUDOU",
+ "intro_sous": "SAKI225",
+ "crf": 6
+}
