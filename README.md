@@ -85,6 +85,17 @@ work/.venv/bin/python scripts/clip2/fetch.py "<url YouTube>" 1:50 2:50 work/mon_
 
 La suite de la chaîne est dans [`docs/RECETTE.md`](docs/RECETTE.md) ; point de départ de config : `exemples/config_modele_vertical.json`.
 
+## Retravailler sur le projet
+
+Les dossiers de travail ont été supprimés pour libérer de la place. Seuls restent le code, la documentation, les configs et les vidéos finales (hors git). Pour reprendre :
+
+1. **Recréer les environnements** avec les commandes de la section Installation. Les dépendances de `work/.venv` y sont listées sans numéros de version (l'environnement d'origine a été supprimé) : si une version récente casse un script, corriger la dépendance puis noter la version qui marche. Le système mix est épinglé dans `requirements-mix.txt`.
+2. **Refaire un clip existant** : retélécharger la source avec `scripts/clip2/fetch.py` (même URL et mêmes minutes que dans `source.json` du clip, ou la config), puis suivre `docs/RECETTE.md`. Les réglages sont dans les configs de `exemples/`. Seules 9 configs de référence sont gardées : les autres essais ne sont plus dans le dépôt.
+3. **Piste par piste** : télécharger le titre, regénérer les stems avec demucs, puis `scripts/mix/stemmix.py` (`docs/mix/STEMMIX.md`).
+4. **Nouveau clip** : partir de `exemples/config_modele_vertical.json` (8-bit) ou de `exemples/config_doodle_bottega_rouge_boost.json` (doodle), et remplir le modèle de demande `docs/PROMPT_NOUVEAU_CLIP.md`.
+
+Ce qui n'est **pas** récupérable depuis le dépôt : les sources vidéo et audio, les stems, les paroles (`lyrics.txt`), les calages Whisper et les MP4 finaux. Les finaux sont sauvegardés à part par l'auteur.
+
 ## Travailler avec un agent de code
 
 Le dépôt est conçu pour être piloté par un agent (Claude Code). [`CLAUDE.md`](CLAUDE.md) donne les règles et les questions à poser avant chaque clip. [`docs/LECONS.md`](docs/LECONS.md) liste les régressions rencontrées et la procédure de non-régression : c'est la mémoire du projet.
