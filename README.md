@@ -25,6 +25,26 @@ Un pipeline en ligne de commande qui part d'une URL YouTube et d'un intervalle d
 
 Un format de live en studio est aussi documenté : [`docs/LIVE_STUDIO.md`](docs/LIVE_STUDIO.md).
 
+## Résultat en conditions réelles
+
+Une vidéo produite avec le pipeline (Tiakola, « Coeur de pirate », format live studio) a été publiée sur TikTok : **[voir la vidéo](https://www.tiktok.com/@pixel_pitchfr/video/7703580576644648214) — plus de 400 000 vues.**
+
+Relevé détaillé de TikTok Studio, pris le 4 novembre 2026 (à 112 483 vues, soit environ 2 jours après la publication) :
+
+| Mesure | Valeur |
+|---|---|
+| Vues | 112 483 |
+| J'aime | 24 046 (21 % des vues) |
+| Partages | 1 461 |
+| Enregistrements | 1 761 |
+| Commentaires | 98 |
+| Trafic « Pour toi » | 94 % |
+| Temps moyen de visionnage | 12,6 s |
+| Taux de complétion | 5,3 % |
+| Nouveaux abonnés générés par la vidéo | 2 |
+
+Le contenu est très partagé et enregistré, mais peu de spectateurs la regardent jusqu'au bout et elle convertit peu en abonnés. Le chiffre de plus de 400 000 vues est postérieur au relevé : les autres valeurs ne sont pas mises à jour.
+
 ## Comment ça marche
 
 ```
